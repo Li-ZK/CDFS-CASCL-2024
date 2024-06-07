@@ -1,6 +1,5 @@
 # CDFS-CASCL-2024
-This is a code demo for the paper "Cross-Domain Few-shot Hyperspectral Image Classification with Cross-Modal Alignment and Supervised Contrastive Learning".
-
+This is a code demo for the paper "Cross-Domain Few-shot Hyperspectral Image Classification with Cross-Modal Alignment and Supervised Contrastive Learning". The access link of the paper is https://doi.org/10.1109/TGRS.2024.3407201.
 
 ## Requirements
 

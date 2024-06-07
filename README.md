@@ -76,4 +76,4 @@ pretrain-model
 - If you downloaded Chikusei_imdb_128_7_7.pickle, move it directly to the corresponding dataset directory.
 
 2. Download the required Base Bert pre-trained model and move to folder `pretrain-model`.
-3. Run `CDFS-CASCL.py`. 
+3. Run `train.py`. 

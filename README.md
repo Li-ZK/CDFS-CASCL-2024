@@ -27,7 +27,7 @@ This is a code demo for the paper "Cross-Domain Few-shot Hyperspectral Image Cla
   - Salinas
   - WHU-Hi-LongKou
 
-You can download the source and target datasets mentioned above at https://pan.baidu.com/s/1wo9xj85YaT3JGogVyJKZTQ?pwd=5lkl, and move to folder `datasets`.  In particular, for the source dataset Chikusei, you can choose to download it in mat format, and then use the utils/chikusei_imdb_128.py file to process it to get the patch size you want, or directly use the preprocessed source dataset Chikusei_imdb_128_7_7.pickle with a patch size of 7$\times$7. 
+You can download the source and target datasets mentioned above at https://pan.baidu.com/s/1wo9xj85YaT3JGogVyJKZTQ?pwd=5lkl, and move to folder `datasets`.  In particular, for the source dataset Chikusei, you can choose to download it in mat format, and then use the utils/chikusei_imdb_128.py file to process it to get the patch size you want, or directly use the preprocessed source dataset Chikusei_imdb_128_7_7.pickle with a patch size of 7 $\times$ 7. 
 
 An example datasets folder has the following structure:
 

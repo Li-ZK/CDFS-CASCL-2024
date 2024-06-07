@@ -42,7 +42,7 @@ datasets
 │   └── indian_pines_gt.mat
 ├── Houston
 │   ├── data.mat
-│	  ├── mask_train.mat
+│   ├── mask_train.mat
 │   └── mask_test.mat
 ├── salinas
 │   ├── salinas_corrected.mat

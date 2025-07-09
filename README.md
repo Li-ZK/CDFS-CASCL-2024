@@ -53,7 +53,7 @@ datasets
 
 ## Pretrain model
 
-You can download the pre-trained model of Base Bert, bert-base-uncased, at https://pan.baidu.com/s/1C6qExEcVd3foNtLcn7PKFw?pwd=enda, and move to folder `pretrain-model`.
+You can download the pre-trained model of Base Bert, bert-base-uncased, at https://pan.baidu.com/s/1RwcZlxOA-EX0O3ciPBLqow?pwd=1shx , and move to folder `pretrain-model`.
 
 An example pretrain-model folder has the following structure:
 
